@@ -1,2 +1,1 @@
-# deep_learning
-no
+this is a test repository for KiteAB's video.
